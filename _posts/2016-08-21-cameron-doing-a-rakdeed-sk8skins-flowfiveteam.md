@@ -1,24 +1,26 @@
 ---
-dateModified: '2016-08-21T03:37:29.113Z'
-description: >-
-  Challenge to all skaters to do something good for someone else. Make a
-  difference in another person's life.
-isBasedOnUrl: 'https://youtu.be/TW7LmepieEc'
-keywords: []
-publisher:
-  domain: youtu.be
-  favicon: 'https://www.youtube.com/favicon.ico'
-  name: YouTube
-  url: 'https://www.youtube.com/'
-title: 'Cameron doing a RAKdeed #sk8skins #flowfiveteam'
-author: []
-via: {}
-datePublished: '2016-08-21T03:37:57.805Z'
-starred: false
-sourcePath: _posts/2016-08-21-cameron-doing-a-rakdeed-sk8skins-flowfiveteam.md
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'https://youtu.be/TW7LmepieEc'
+inLanguage: null
+keywords: []
+description: >-
+  Challenge to all skaters to do something good for someone else. Make a
+  difference in another person's life.
+datePublished: '2016-08-21T03:45:40.125Z'
+dateModified: '2016-08-21T03:45:11.250Z'
+title: 'Cameron doing a RAKdeed #sk8skins #flowfiveteam'
+author: []
+via: {}
+sourcePath: _posts/2016-08-21-cameron-doing-a-rakdeed-sk8skins-flowfiveteam.md
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
